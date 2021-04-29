@@ -104,7 +104,7 @@ A degree in one of the following:
 #### Length of time to complete degree: 4 years
 ---
 ### Valuable experiential learning opportunities that make for a stronger job candidate
-![image] ()
+![image] (https://sci.umanitoba.ca/co-op/wp-content/uploads/sites/9/2020/01/Wawanesa_Co-op_830px-830x410.png)
 #### I found that there is a co-op program you can enroll into that the program offers. This is what they expect from the co-op students:
 
 * Students must satisfactorily complete three Co-op work terms, each of four-months duration, one of which can be during the summer
@@ -124,19 +124,19 @@ A degree in one of the following:
 ---
 ## Works Cited
 
-“Average Software Developer Salary in Canada.” PayScale, [www.payscale.com/research/CA/Job=Software_Developer/Salary] (www.payscale.com/research/CA/Job=Software_Developer/Salary)
+“Average Software Developer Salary in Canada.” *PayScale*, [www.payscale.com/research/CA/Job=Software_Developer/Salary] (www.payscale.com/research/CA/Job=Software_Developer/Salary)
 
-“Database Software Developer.” Indeed.ca, [ca.indeed.com/software-developer-$140,000-jobs?advn=7280950653058030&vjk=8b5c793cdd409917] (ca.indeed.com/software-developer-$140,000-jobs?advn=7280950653058030&vjk=8b5c793cdd409917)
+“Database Software Developer.” *Indeed.ca*, [ca.indeed.com/software-developer-$140,000-jobs?advn=7280950653058030&vjk=8b5c793cdd409917] (ca.indeed.com/software-developer-$140,000-jobs?advn=7280950653058030&vjk=8b5c793cdd409917)
 
-“Database Software Developer.” Indeed.ca [ca.indeed.com/software-developer-$60,000-jobs?advn=5761763028664928&vjk=4630f9f0efb376b9] (ca.indeed.com/software-developer-$60,000-jobs?advn=5761763028664928&vjk=4630f9f0efb376b9).
+“Database Software Developer.” *Indeed.ca* [ca.indeed.com/software-developer-$60,000-jobs?advn=5761763028664928&vjk=4630f9f0efb376b9] (ca.indeed.com/software-developer-$60,000-jobs?advn=5761763028664928&vjk=4630f9f0efb376b9).
 
-“Full Stack Software Developer for SaaS.” Indeed.ca [companyca.indeed.com/software-developer-$80,000-jobs?vjk=07cee7ccaf529937&advn=6078419695541597] (companyca.indeed.com/software-developer-$80,000-jobs?vjk=07cee7ccaf529937&advn=6078419695541597)
+“Full Stack Software Developer for SaaS.” *Indeed.ca*       [companyca.indeed.com/software-developer-$80,000-jobs?vjk=07cee7ccaf529937&advn=6078419695541597] (companyca.indeed.com/software-developer-$80,000-jobs?vjk=07cee7ccaf529937&advn=6078419695541597)
 
-“Software Developer Job Description and Duties: Robert Half.” Software Developer Job Description and Duties | Robert Half, 18 Jan. 2021, [www.roberthalf.com.au/employers/it-technology/software-developer-jobs] (www.roberthalf.com.au/employers/it-technology/software-developer-jobs)
+“Software Developer Job Description and Duties: Robert Half.” *Software Developer Job Description and Duties | Robert Half, 18 Jan. 2021* [www.roberthalf.com.au/employers/it-technology/software-developer-jobs] (www.roberthalf.com.au/employers/it-technology/software-developer-jobs)
 
-“SPECIALIST (CO-OPERATIVE) PROGRAM IN COMPUTER SCIENCE (SCIENCE).” SPECIALIST (CO-OPERATIVE) PROGRAM IN COMPUTER SCIENCE (SCIENCE) | UTSC Calendar, utsc.calendar.utoronto.[ca/specialist-co-operative-program-computer-science-science] (ca/specialist-co-operative-program-computer-science-science)
+“SPECIALIST (CO-OPERATIVE) PROGRAM IN COMPUTER SCIENCE (SCIENCE).” *SPECIALIST (CO-OPERATIVE) PROGRAM IN COMPUTER SCIENCE (SCIENCE) | UTSC Calendar, utsc.calendar.utoronto*. [ca/specialist-co-operative-program-computer-science-science] (ca/specialist-co-operative-program-computer-science-science)
 
-“UTSC Homepage.” Which First Year Computer Science Courses Are Right for Me? | Computer and Mathematical Sciences, [www.utsc.utoronto.ca/cms/which-first-year-computer-science-courses-are-right-me] (www.utsc.utoronto.ca/cms/which-first-year-computer-science-courses-are-right-me) 
+“UTSC Homepage.” *Which First Year Computer Science Courses Are Right for Me? | Computer and Mathematical Sciences, *[www.utsc.utoronto.ca/cms/which-first-year-computer-science-courses-are-right-me] (www.utsc.utoronto.ca/cms/which-first-year-computer-science-courses-are-right-me) 
 
 
 ![alt text] ()
